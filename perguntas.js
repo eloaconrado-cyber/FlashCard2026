@@ -11,14 +11,14 @@ criaCartao(
 )
 
 criaCartao(
-    ''',
+    'biologia',
     'O que estuda a Citologia?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'É o ramo da biologia que estuda as células, sua estrutura e funcionamento.'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
+    '?',
     'Oi em ingles é HI (RAI)'
 )
 
